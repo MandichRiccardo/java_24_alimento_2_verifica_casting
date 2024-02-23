@@ -1,1 +1,0 @@
-public class Bevanda extends Alimento{}
