@@ -1,0 +1,1 @@
+public class PrimoPiatto extends Cibo{}
